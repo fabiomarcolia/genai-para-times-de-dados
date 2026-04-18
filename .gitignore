@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyd
+*.pyo
+*.pkl
+*.log
+.venv/
+.env
+.ipynb_checkpoints/
+dist/
+build/
+*.egg-info/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE (permitir arquivos recomendados)
+.vscode/*
+!.vscode/extensions.json
+!.vscode/settings.json
+.idea/

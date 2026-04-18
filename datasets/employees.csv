@@ -1,0 +1,51 @@
+employee_id,name,role,level,salary_brl
+1,Marina Lima,Data Product Manager,Sênior,15207
+2,Paulo Almeida,BI Analyst,Júnior,14937
+3,Vera Silva,Engenheiro(a) de Dados,Júnior,8374
+4,Katia Almeida,Engenheiro(a) de Dados,Pleno,18364
+5,Lucas Silva,Engenheiro(a) de Dados,Sênior,16605
+6,Isabela Lima,Data Product Manager,Pleno,17678
+7,Isabela Lima,Cientista de Dados,Júnior,12687
+8,Lucas Pereira,Analista de Dados,Sênior,20119
+9,Bruno Pereira,Cientista de Dados,Júnior,11322
+10,Nuno Lima,BI Analyst,Júnior,18601
+11,Nuno Pereira,Cientista de Dados,Pleno,8061
+12,Fabio Carvalho,BI Analyst,Júnior,8827
+13,Elisa Lima,BI Analyst,Sênior,13718
+14,Elisa Ribeiro,Data Product Manager,Pleno,14227
+15,Ana Almeida,Analista de Dados,Sênior,17558
+16,Tiago Almeida,Cientista de Dados,Júnior,9704
+17,Paulo Pereira,Engenheiro(a) de Dados,Júnior,19771
+18,Paulo Almeida,Engenheiro(a) de Dados,Sênior,10271
+19,Katia Santos,Data Product Manager,Pleno,13848
+20,Rafa Santos,Cientista de Dados,Júnior,20809
+21,Bruno Ribeiro,Analista de Dados,Júnior,13939
+22,Nuno Pereira,Engenheiro(a) de Dados,Júnior,16433
+23,Fabio Pereira,Analista de Dados,Sênior,20400
+24,Sofia Ribeiro,Data Product Manager,Júnior,21555
+25,Marina Ribeiro,Data Product Manager,Pleno,13239
+26,Paulo Carvalho,Data Product Manager,Sênior,11795
+27,Elisa Gomes,Analista de Dados,Pleno,7946
+28,Katia Santos,Cientista de Dados,Sênior,13905
+29,Gabi Ribeiro,BI Analyst,Pleno,20570
+30,Bruno Santos,Engenheiro(a) de Dados,Pleno,13024
+31,Carla Carvalho,Analista de Dados,Júnior,10598
+32,Gabi Gomes,Analista de Dados,Júnior,6377
+33,Diego Pereira,Data Product Manager,Sênior,11320
+34,Isabela Gomes,BI Analyst,Sênior,8642
+35,Bruno Carvalho,Data Product Manager,Pleno,21592
+36,Isabela Carvalho,Data Product Manager,Pleno,13733
+37,Diego Silva,Cientista de Dados,Pleno,6897
+38,João Gomes,Analista de Dados,Pleno,5679
+39,Nuno Pereira,Data Product Manager,Júnior,19388
+40,Paulo Almeida,BI Analyst,Pleno,20800
+41,Marina Silva,Cientista de Dados,Sênior,17852
+42,Bruno Santos,BI Analyst,Sênior,6667
+43,Vera Souza,Cientista de Dados,Sênior,6219
+44,Isabela Silva,BI Analyst,Sênior,7964
+45,Ana Santos,BI Analyst,Sênior,17644
+46,Marina Carvalho,BI Analyst,Sênior,17893
+47,Olivia Almeida,BI Analyst,Pleno,19162
+48,Lucas Lima,Cientista de Dados,Pleno,6196
+49,Henrique Lima,Data Product Manager,Pleno,7181
+50,João Pereira,Engenheiro(a) de Dados,Sênior,20254

@@ -1,0 +1,43 @@
+{
+  "dashboard_name": "Vendas e Receita",
+  "audience": "Diretoria e liderança comercial",
+  "refresh": "Diário (07:00 BRT)",
+  "sources": [
+    "datasets/sales.csv (sintético)"
+  ],
+  "pages": [
+    {
+      "name": "Visão Geral",
+      "visuals": [
+        "Receita por mês",
+        "Receita por categoria",
+        "Top regiões"
+      ]
+    },
+    {
+      "name": "Detalhe",
+      "visuals": [
+        "Tabela de pedidos",
+        "Distribuição de ticket médio"
+      ]
+    }
+  ],
+  "metrics": [
+    {
+      "name": "Receita",
+      "definition": "SUM(revenue)"
+    },
+    {
+      "name": "Ticket Médio",
+      "definition": "AVG(revenue)"
+    },
+    {
+      "name": "Pedidos",
+      "definition": "COUNT(order_id)"
+    }
+  ],
+  "limitations": [
+    "Dados sintéticos para demo (não representam uma empresa real).",
+    "Sem ajuste de sazonalidade."
+  ]
+}

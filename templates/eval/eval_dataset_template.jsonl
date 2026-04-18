@@ -1,0 +1,3 @@
+{"id":"q1","question":"Qual foi o faturamento total por mês?","expected_contains":["faturamento","mês"],"must_cite":true}
+{"id":"q2","question":"Quais categorias têm maior receita?","expected_contains":["categoria"],"must_cite":true}
+{"id":"q3","question":"Liste 3 insights relevantes do dataset.","expected_contains":["insight"],"must_cite":false}

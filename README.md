@@ -44,6 +44,7 @@ Playbook + templates + demos para aplicar LLMs/GenAI em times de Dados (Analytic
 Pré-requisitos:
 - Python 3.11+ (recomendado)
 - Git
+- ollama: [Install ollama](docs/8-ollama-llama-setup.md)
 - (Opcional) Docker
 
     - Se quiser aprender Python para Dados, veja [aqui](https://github.com/fabiomarcolia/python-para-dados])

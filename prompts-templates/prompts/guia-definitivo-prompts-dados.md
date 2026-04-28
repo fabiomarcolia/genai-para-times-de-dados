@@ -1,4 +1,4 @@
-# O Guia Definitivo de Prompts para Dados
+# 📒 O Guia Definitivo de Prompts para Dados
 **Por: Fabio Marçolia**
 
 ---

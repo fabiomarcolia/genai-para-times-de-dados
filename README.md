@@ -141,3 +141,7 @@ Agradeço seu apoio e fique a vontade de entrar em contato comigo!
 
 **Se este repositório foi útil para você, considere deixar uma ⭐**
 
+<<<<<<< HEAD
+=======
+
+>>>>>>> 0e633edbf8a226e2a4a431da0cc794507ae7084f

@@ -1,5 +1,7 @@
 # Prompt: Documentação de dashboard
-Objetivo: gerar documentação clara com base em metadados.
+Prompt: "Gere documentação clara dos dashboards com base em metadados e anexos. Saída em Markdown"
+
+O que você precisa adicionar:
 
 Entrada:
 - Nome do dashboard
@@ -8,7 +10,7 @@ Entrada:
 - Fonte de dados e atualização
 - Público-alvo
 
-Saída (Markdown):
+Saída (Markdown): (Pode mudar o formato se achar melhor)
 1- Visão geral
 2- Definições de métricas
 3- Como interpretar

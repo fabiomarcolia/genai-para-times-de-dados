@@ -105,7 +105,7 @@ python demos/01-rag-csv/app.py --question "Resuma os 3 principais insights do da
 ## 📂 Estrutura do repositório
 ```text
 docs/                 guias e playbook
-templates/            prompts, checklists, datasets e esqueletos
+prompts-templates/    prompts, checklists, datasets e esqueletos
 demos/                mini-projetos executáveis
 datasets/             dados sintéticos (seguros para repo público)
 src/                  utilitários compartilhados
@@ -122,19 +122,22 @@ tests/                testes unitários
 Veja: `docs/05-seguranca-custos.md`
 
 ## 🎁 Recursos
- - [Dashboard Docs](templates/prompts/dashboard-docs.md)
- - [Prompt Library](templates/prompts/prompt-library.md)
- - [SQL Copilot](templates/prompts/sql-copilot.md)
- - [Top 50 prompts super úteis](templates/prompts/top-50.md)
+ - [Dashboard Docs](prompts-templates/prompts/dashboard-docs.md)
+ - [Prompt Library](prompts-templates/prompts/prompt-library.md)
+ - [SQL Copilot](prompts-templates/prompts/sql-copilot.md)
+ - [Top 50 prompts super úteis](prompts-templates/prompts/top-50.md)
 
-
+135246aA@
 ---
 ## Autor - Fabio Marçolia | Carreira em Dados & IA
 
 Para mais conteúdo Carreira em Dados e IA, ou se quiser falar comigo sobre dúvidas, sugestões ou feedback:
 
-- Linkedin: [Vamos nos conectar e me envie uma mensagem🤝](http://linkedin.com/in/fabiomarcolia)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Fabio_Marçolia-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/fabiomarcolia)
 - Mais Recursos de Carreira: [Veja aqui](https://topmate.io/fabiomarcolia)
 
 Agradeço seu apoio e fique a vontade de entrar em contato comigo!
+
+
+**Se este repositório foi útil para você, considere deixar uma ⭐**
 

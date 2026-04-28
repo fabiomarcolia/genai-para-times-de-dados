@@ -1,4 +1,4 @@
-# Biblioteca de prompts (base)
+# Framework
 
 ## Princípios
 - Contexto pequeno e verificável

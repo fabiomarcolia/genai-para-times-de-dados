@@ -189,3 +189,17 @@ Use este cabeçalho sempre que quiser respostas mais consistentes:
 - Formato de saída: **[markdown/tabela/json]**
 - Critérios de qualidade: **[como validar]**
 - Se faltar info: **pergunte antes de inferir**
+
+---
+
+## Autor - Fabio Marçolia | Carreira em Dados & IA
+
+Para mais conteúdo Carreira em Dados e IA, ou se quiser falar comigo sobre dúvidas, sugestões ou feedback:
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Fabio_Marçolia-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/fabiomarcolia)
+- Mais Recursos de Carreira: [Veja aqui](https://topmate.io/fabiomarcolia)
+
+Agradeço seu apoio e fique a vontade de entrar em contato comigo!
+
+
+**Se este repositório foi útil para você, considere deixar uma ⭐**

@@ -31,14 +31,14 @@ No entanto, a implementação bem-sucedida depende de uma base de dados sólida.
 
 Playbook + templates + demos para aplicar LLMs/GenAI em times de Dados (Analytics, Engenharia de Dados, BI e Produto) com foco em **valor**, **segurança** e **custo controlado**.
 
-## 🔎 O que você encontra aqui
+## O que você encontra aqui
 - **Playbook**: padrões, arquitetura e boas práticas (RAG, avaliação, guardrails, observabilidade).
 - **Templates**: prompts, datasets de avaliação, esqueleto de agentes e checklists.
 - **Demos executáveis**: mini-projetos prontos (offline-first; LLM opcional).
 - **Prompts super valiosos**: Os melhores prompts para aprender, construir e resolver problemas com dados.
 
 
-## ⏳Quickstart (5 minutos) - Vamos praticar!
+## Quickstart (5 minutos) - Vamos praticar!
 
   
 Pré-requisitos:
@@ -102,7 +102,7 @@ python demos/01-rag-csv/app.py --question "Resuma os 3 principais insights do da
   Recebe uma instrução em PT-BR (ex.: “limpe nulos, crie faixas, faça agregação e gere gráfico”) > Gera um script Python padronizado (pandas + matplotlib)
 
 
-## 📂 Estrutura do repositório
+## Estrutura do repositório
 ```text
 docs/                 guias e playbook
 prompts-templates/    prompts, checklists, datasets e esqueletos
@@ -127,7 +127,6 @@ Veja: `docs/05-seguranca-custos.md`
  - [SQL Copilot](prompts-templates/prompts/sql-copilot.md)
  - [Top 50 prompts super úteis](prompts-templates/prompts/top-50.md)
 
-135246aA@
 ---
 ## Autor - Fabio Marçolia | Carreira em Dados & IA
 
